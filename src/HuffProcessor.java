@@ -10,6 +10,8 @@
  * @author Owen Astrachan
  */
 
+//Jason Micelotta
+
 public class HuffProcessor {
 
 	public static final int BITS_PER_WORD = 8;
